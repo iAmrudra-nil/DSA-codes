@@ -30,5 +30,6 @@ class stack {
         st.pop();
         st.push(6);
         st.peek();
+        
     }
 }
