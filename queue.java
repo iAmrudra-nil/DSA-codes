@@ -1,5 +1,5 @@
  class queue {
-    public int[]qu=new int[2];
+    public int[]qu=new int[20];
     public int f=-1,r=-1;
     void add(int data){
         if(f==qu.length){
